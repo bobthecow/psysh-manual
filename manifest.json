@@ -1,0 +1,170 @@
+{
+    "version": "3.1.0",
+    "built_at": 1780885662,
+    "git_rev": "1be57c2d7d",
+    "git_timestamp": 1780854801,
+    "manuals": [
+        {
+            "lang": "de",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "86e1075bc",
+            "git_timestamp": 1780773139,
+            "built_at": 1780885643,
+            "hash": "454ad0cfed11b1d422cc64e8a9513438"
+        },
+        {
+            "lang": "de",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "86e1075bc",
+            "git_timestamp": 1780773139,
+            "built_at": 1780885644,
+            "hash": "af6fa696c5c721e4f38d56766063762c"
+        },
+        {
+            "lang": "en",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "1be57c2d7d",
+            "git_timestamp": 1780854801,
+            "built_at": 1780885636,
+            "hash": "27248f6b96f3b296f294ca4cc9d3468a"
+        },
+        {
+            "lang": "en",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "1be57c2d7d",
+            "git_timestamp": 1780854801,
+            "built_at": 1780885638,
+            "hash": "351496f89e38c7bcf1c4143405ab6d00"
+        },
+        {
+            "lang": "es",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "f9c86b1d9",
+            "git_timestamp": 1780851840,
+            "built_at": 1780885660,
+            "hash": "e073462d8ac4e2b4ce465a5d67374c51"
+        },
+        {
+            "lang": "es",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "f9c86b1d9",
+            "git_timestamp": 1780851840,
+            "built_at": 1780885662,
+            "hash": "9320a9476de534a626d0d9c61b7b07c2"
+        },
+        {
+            "lang": "fr",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "dcf3c9f810",
+            "git_timestamp": 1780857560,
+            "built_at": 1780885660,
+            "hash": "458ad11462a62ee5e5e78239d7a41cc6"
+        },
+        {
+            "lang": "fr",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "dcf3c9f810",
+            "git_timestamp": 1780857560,
+            "built_at": 1780885662,
+            "hash": "5b268f5ab1a813b2557c60ce3320d6dc"
+        },
+        {
+            "lang": "ja",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "c23693dd6",
+            "git_timestamp": 1780820207,
+            "built_at": 1780885659,
+            "hash": "653aad1a5ee12dca1c6d2c2d8dea38b6"
+        },
+        {
+            "lang": "ja",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "c23693dd6",
+            "git_timestamp": 1780820207,
+            "built_at": 1780885662,
+            "hash": "876d7e306853a500b39654fc08203e0f"
+        },
+        {
+            "lang": "pt_BR",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "8a673aeed",
+            "git_timestamp": 1780059040,
+            "built_at": 1780885660,
+            "hash": "02c9f3196d0439083df43f28a25cb755"
+        },
+        {
+            "lang": "pt_BR",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "8a673aeed",
+            "git_timestamp": 1780059040,
+            "built_at": 1780885662,
+            "hash": "84d41725e88c722d4c9c60eb48286a95"
+        },
+        {
+            "lang": "ru",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "3c61a40f7",
+            "git_timestamp": 1780787796,
+            "built_at": 1780885660,
+            "hash": "e9aa41baea5f81c45664aedb2ebcd416"
+        },
+        {
+            "lang": "ru",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "3c61a40f7",
+            "git_timestamp": 1780787796,
+            "built_at": 1780885662,
+            "hash": "e8d4944c5a262ab5eabe301c83185e53"
+        },
+        {
+            "lang": "tr",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "2007d70f",
+            "git_timestamp": 1778584984,
+            "built_at": 1780885629,
+            "hash": "42212dc5883f1d287f1124f5db562d08"
+        },
+        {
+            "lang": "tr",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "2007d70f",
+            "git_timestamp": 1778584984,
+            "built_at": 1780885630,
+            "hash": "ab11f4f083888d876c03eaa8bf1ac013"
+        },
+        {
+            "lang": "zh",
+            "version": "3.1.0",
+            "format": "php",
+            "git_rev": "45e2d19e",
+            "git_timestamp": 1779549563,
+            "built_at": 1780885644,
+            "hash": "9a6213fd99bdf12e5fe96e860f95cc35"
+        },
+        {
+            "lang": "zh",
+            "version": "2.1.0",
+            "format": "sqlite",
+            "git_rev": "45e2d19e",
+            "git_timestamp": 1779549563,
+            "built_at": 1780885645,
+            "hash": "7caf0b0a68cf413a299741dc6b315d53"
+        }
+    ]
+}

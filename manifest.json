@@ -1,170 +1,170 @@
 {
-    "version": "3.1.1",
-    "built_at": 1782706559,
-    "git_rev": "6400027855",
-    "git_timestamp": 1782460757,
+    "version": "3.1.2",
+    "built_at": 1787762162,
+    "git_rev": "2cbc37d710",
+    "git_timestamp": 1787759188,
     "manuals": [
         {
             "lang": "de",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
             "git_rev": "08e5b7a4e",
             "git_timestamp": 1781381253,
-            "built_at": 1782706555,
-            "hash": "586ceb949bca7fa2b044a0f122ac491c"
+            "built_at": 1787762158,
+            "hash": "1d88e8d474edd7f82380631ee277eb5b"
         },
         {
             "lang": "de",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
             "git_rev": "08e5b7a4e",
             "git_timestamp": 1781381253,
-            "built_at": 1782706557,
-            "hash": "8b68bafb576b44757a710713f7815840"
+            "built_at": 1787762160,
+            "hash": "0ba4e6b0e737874f5af4a92364a3a19d"
         },
         {
             "lang": "en",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "6400027855",
-            "git_timestamp": 1782460757,
-            "built_at": 1782706555,
-            "hash": "76f576058093387cf06e26c080788bf6"
+            "git_rev": "2cbc37d710",
+            "git_timestamp": 1787759188,
+            "built_at": 1787762157,
+            "hash": "8d927168a9800b6216088edcc09c49df"
         },
         {
             "lang": "en",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "6400027855",
-            "git_timestamp": 1782460757,
-            "built_at": 1782706556,
-            "hash": "20ca1de5d52d95ab3e4d1dcd91bd17b9"
+            "git_rev": "2cbc37d710",
+            "git_timestamp": 1787759188,
+            "built_at": 1787762158,
+            "hash": "9e5353796545d922e952df20fd1f118d"
         },
         {
             "lang": "es",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "d0be9df45",
-            "git_timestamp": 1782492789,
-            "built_at": 1782706557,
-            "hash": "03101fafc01c34a10e4aa24a4d8f41ed"
+            "git_rev": "4eff57793",
+            "git_timestamp": 1787349737,
+            "built_at": 1787762159,
+            "hash": "c37531301b79d9cc3031822399a180e4"
         },
         {
             "lang": "es",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "d0be9df45",
-            "git_timestamp": 1782492789,
-            "built_at": 1782706559,
-            "hash": "08a74f4c08295afa2b5009afd6ea27be"
+            "git_rev": "4eff57793",
+            "git_timestamp": 1787349737,
+            "built_at": 1787762161,
+            "hash": "6c5b726cca531fed4f25f7e2cde8e1cf"
         },
         {
             "lang": "fr",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "79400c5fb5",
-            "git_timestamp": 1782463588,
-            "built_at": 1782706557,
-            "hash": "b8416bd5043921e8987c77e1f5abfa2e"
+            "git_rev": "71bfd515f0",
+            "git_timestamp": 1787752562,
+            "built_at": 1787762159,
+            "hash": "5ffdb715e1347250d7830d0f0cd15337"
         },
         {
             "lang": "fr",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "79400c5fb5",
-            "git_timestamp": 1782463588,
-            "built_at": 1782706559,
-            "hash": "a259eb39b85a6ac93c536a6b9baf5ed9"
+            "git_rev": "71bfd515f0",
+            "git_timestamp": 1787752562,
+            "built_at": 1787762161,
+            "hash": "0dd4964530f595ffec84303c1ce5bb85"
         },
         {
             "lang": "ja",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "e8162102e",
-            "git_timestamp": 1782546147,
-            "built_at": 1782706556,
-            "hash": "eb183d52397faf251604e4e7d36606fa"
+            "git_rev": "040d22cbf",
+            "git_timestamp": 1786664479,
+            "built_at": 1787762159,
+            "hash": "3310ecb69990e0016f37955bb6ae3820"
         },
         {
             "lang": "ja",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "e8162102e",
-            "git_timestamp": 1782546147,
-            "built_at": 1782706559,
-            "hash": "8c7caee18dd3b70d8f92617250194fb0"
+            "git_rev": "040d22cbf",
+            "git_timestamp": 1786664479,
+            "built_at": 1787762162,
+            "hash": "76415893bff029317b51ad6f9542a6bc"
         },
         {
             "lang": "pt_BR",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "4743f9537",
-            "git_timestamp": 1782214359,
-            "built_at": 1782706556,
-            "hash": "ac0bd79f121fa6738658187a1aa2e775"
+            "git_rev": "1a53bdade",
+            "git_timestamp": 1787671834,
+            "built_at": 1787762159,
+            "hash": "fb4d7a05f14ad4abe4a427bae2cfbfc4"
         },
         {
             "lang": "pt_BR",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "4743f9537",
-            "git_timestamp": 1782214359,
-            "built_at": 1782706558,
-            "hash": "e951d99af7427648d23c0b5b7b4daafb"
+            "git_rev": "1a53bdade",
+            "git_timestamp": 1787671834,
+            "built_at": 1787762161,
+            "hash": "1c269fc5d6b6cbb7738a9bb13f6dc20b"
         },
         {
             "lang": "ru",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "442a0d005",
-            "git_timestamp": 1782585243,
-            "built_at": 1782706557,
-            "hash": "82e1ddb58936b3c721afe115590b7af9"
+            "git_rev": "5192f2d8c",
+            "git_timestamp": 1787751356,
+            "built_at": 1787762159,
+            "hash": "48878a2359c30418c7f5e45209946bfa"
         },
         {
             "lang": "ru",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "442a0d005",
-            "git_timestamp": 1782585243,
-            "built_at": 1782706559,
-            "hash": "6a6fab2895b447d2b1708eaf7f718a1b"
+            "git_rev": "5192f2d8c",
+            "git_timestamp": 1787751356,
+            "built_at": 1787762162,
+            "hash": "86961f54c5b9e8f3bcd7b1986d872e77"
         },
         {
             "lang": "tr",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
             "git_rev": "891d6817",
             "git_timestamp": 1782150543,
-            "built_at": 1782706555,
-            "hash": "f865d2b9e4bfaab3ff2cf65f12b945bc"
+            "built_at": 1787762158,
+            "hash": "7ccf0f32e6d296b8f66f0d1ba2c9ac70"
         },
         {
             "lang": "tr",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
             "git_rev": "891d6817",
             "git_timestamp": 1782150543,
-            "built_at": 1782706556,
-            "hash": "4cf141b8aceead8538ba1c716f37ea95"
+            "built_at": 1787762159,
+            "hash": "2ddbeaaa53accf44b2f1ab0c177efa9c"
         },
         {
             "lang": "zh",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "format": "php",
-            "git_rev": "45e2d19e",
-            "git_timestamp": 1779549563,
-            "built_at": 1782706555,
-            "hash": "942e587545935fd161e1cde1c7486b3d"
+            "git_rev": "9623a5c9",
+            "git_timestamp": 1787627809,
+            "built_at": 1787762158,
+            "hash": "c2158e75202bc3a0f7739b60f72c67c9"
         },
         {
             "lang": "zh",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "format": "sqlite",
-            "git_rev": "45e2d19e",
-            "git_timestamp": 1779549563,
-            "built_at": 1782706557,
-            "hash": "4571995fd0f29abc07ed34e89a6f35ae"
+            "git_rev": "9623a5c9",
+            "git_timestamp": 1787627809,
+            "built_at": 1787762159,
+            "hash": "e082dfcc1364c228b70a140d48713fc7"
         }
     ]
 }
